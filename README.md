@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm jiana Philip</h1>
 <h3 align="center">an aspiring student in the field of cyber security</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jianaphilip" alt="jianaphilip" /></a> </p>
-
 - 📫 How to reach me **jianaphilip0284@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1rBBhRFIG001f_Nw02WYx4l0PEBcZLRhD/view?usp=drive_link](https://drive.google.com/file/d/1rBBhRFIG001f_Nw02WYx4l0PEBcZLRhD/view?usp=drive_link)
