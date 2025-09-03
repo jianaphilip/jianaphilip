@@ -57,6 +57,11 @@ I’m a **Computer Engineering undergraduate specializing in Information Securit
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"/>
 </p>
+## 🎮 Pac-Man Mode
+<p align="center">
+  <img src="https://raw.githubusercontent.com/irfaan008/pacman-github-contributions/main/pacman.svg" alt="pacman animation" />
+</p>
+
 
 
 
