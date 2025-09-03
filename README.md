@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm jiana Philip</h1>
 <h3 align="center">an aspiring student in the field of cyber security</h3>
+<h2 align="left"> Profile </h2>
+<h3>Fourth- year Computer Engineering undergraduate specializing in Information Security with strong foundations in software development, data engineering, and system security. Skilled in Python, Java, SQL, C, and Docker, with projects spanning data analysis, blockchain, IoT, digital forensics, and SDN-based networking. Demonstrates problem-solving, adaptability, and teamwork in both academic and independent projects. Seeking opportunities to apply technical expertise in software engineering, data engineering, and secure systems development.
+</h3>
 
 - 📫 How to reach me **jianaphilip0284@gmail.com**
 
