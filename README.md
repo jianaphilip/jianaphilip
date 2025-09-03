@@ -1,79 +1,73 @@
 <h1 align="center">Hi 👋, I'm Jiana Philip</h1>
-<h3 align="center">🚀 Aspiring Cybersecurity Engineer | Software & Data Enthusiast</h3>
+<h3 align="center">Aspiring Cybersecurity Engineer | Software & Data Enthusiast 🛡️</h3>
 
 ---
 
-## 👩‍💻 Profile
-Fourth-year **Computer Engineering undergraduate** specializing in **Information Security** with strong foundations in **software development, data engineering, and system security**.  
-Skilled in **Python, Java, SQL, C, Docker**, with projects spanning **AI, Blockchain, IoT, Digital Forensics, and SDN**.  
-Demonstrates **problem-solving, adaptability, and teamwork** in both academic and independent projects.  
-💡 Seeking opportunities in **software engineering, data engineering, and secure systems development**.  
+## 🧑‍💻 About Me
+🎓 Final-year **Computer Engineering** undergraduate at **VIT Vellore**, specializing in **Information Security**.  
+💡 Skilled in **Python, Java, SQL, C, Docker** with projects in **AI, Blockchain, IoT, Digital Forensics, and SDN**.  
+🔐 Passionate about **Cybersecurity, Secure System Development, and Data Engineering**.  
+📫 Reach me: **jianaphilip0284@gmail.com**  
 
 ---
 
-## 🌱 About Me
-- 🎓 Studying at **VIT Vellore (2022–Present)**  
-- 🔐 Passionate about **cybersecurity & secure systems**  
-- 🤖 Exploring **AI-powered security automation & DevSecOps**  
-- 📫 Reach me at: **jianaphilip0284@gmail.com**  
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1K_uQLeQkQbIxyacldwQtNSiuXlYBlmWk/view?usp=sharing)  
-
----
-
-## 🤝 Connect with Me
+## 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/jiana-philip" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/jiana._.philip" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://leetcode.com/jiana_philip" target="blank"><img src="https://img.shields.io/badge/-LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/jiana-philip" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/jiana._.philip" target="blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/jiana_philip" target="blank">
+    <img src="https://img.shields.io/badge/-LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/> 
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/> 
-</p>
+## 🛠 Tech Stack
+
+### Programming Languages
+- Python 🐍  
+- Java ☕  
+- C / C++ ⚡  
+- SQL 📊  
+
+### Web & Backend
+- HTML5, CSS3, JavaScript  
+- Node.js, React.js  
+- MongoDB, MySQL, PostgreSQL  
+
+### DevOps & Tools
+- Docker 🐳, Linux 🐧, Git  
+- Firebase 🔥, OpenCV 👁️  
+- Scikit-learn, TensorFlow, Seaborn  
 
 ---
 
-## 📊 GitHub Fun Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jianaphilip&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jianaphilip&theme=radical" alt="GitHub streak" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jianaphilip&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
+## 🚀 Academic Projects
+- **DocPose AI** – AI-powered Docker deployment assistant using CrewAI, Streamlit & HashiCorp Vault.  
+- **MCP GitHub Agent** – Intelligent automation agent for repo issue tracking & management.  
+- **AI Spam-Ham Detection** – Hybrid ML/DL spam classifier (Naive Bayes, LSTM, LLM).  
+- **Watermarking & Steganography** – Edge-guided LSB–SVD watermarking with adaptive threshold.  
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jianaphilip&theme=onedark&row=1&column=6" alt="trophies"/>
-</p>
+## 📜 Certifications
+- **Fortinet NSE 1 & 2** – Network Security Essentials (2023)  
+- **TCM Security** – Practical Web Application Security Testing (2023)  
+- **TCM Security** – Mobile Application Penetration Testing (2025)  
+- **EC-Council CodeRed** – Ethical Hacking Essentials (Ongoing)  
 
 ---
 
-## 🎶 Now Playing on Spotify
+## 🎮 Just for Fun
+
 <p align="center">
-  <!-- Change 'novatorem.vercel.app' to your own Vercel deployment URL -->
-  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
+  <img src="https://media.giphy.com/media/fnlXXGImVWB0RYWWQj/giphy.gif" width="120" alt="Pac-Man"/>  
+  <br/> 
+  <em>Chasing bugs like Pac-Man chases ghosts 👻</em>
 </p>
 
 
