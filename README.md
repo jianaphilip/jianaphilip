@@ -3,15 +3,15 @@
 
 ---
 
-## 🧑‍💻 About Me
-🎓 Final-year **Computer Engineering** undergraduate at **VIT Vellore**, specializing in **Information Security**.  
-💡 Skilled in **Python, Java, SQL, C, Docker** with projects in **AI, Blockchain, IoT, Digital Forensics, and SDN**.  
-🔐 Passionate about **Cybersecurity, Secure System Development, and Data Engineering**.  
-📫 Reach me: **jianaphilip0284@gmail.com**  
+## ✨ Profile
+I’m a **Computer Engineering undergraduate specializing in Information Security** at **VIT Vellore**.  
+💡 Skilled in **Python, Java, SQL, Docker, and Cybersecurity tools**.  
+🔐 Passionate about **secure system design, AI-powered security, and data engineering**.  
+🚀 Constantly building projects in **AI, Blockchain, IoT, and Digital Forensics**.  
 
 ---
 
-## 🌐 Connect with Me
+## 📬 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/jiana-philip" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -26,48 +26,36 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🖥️ Core Coding
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/>
+</p>
 
-### Programming Languages
-- Python 🐍  
-- Java ☕  
-- C / C++ ⚡  
-- SQL 📊  
+## 🌐 Web & Frameworks
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"/>
+</p>
 
-### Web & Backend
-- HTML5, CSS3, JavaScript  
-- Node.js, React.js  
-- MongoDB, MySQL, PostgreSQL  
+## ⚙️ Tools & Platforms
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/>
+</p>
 
-### DevOps & Tools
-- Docker 🐳, Linux 🐧, Git  
-- Firebase 🔥, OpenCV 👁️  
-- Scikit-learn, TensorFlow, Seaborn  
-
----
-
-## 🚀 Academic Projects
-- **DocPose AI** – AI-powered Docker deployment assistant using CrewAI, Streamlit & HashiCorp Vault.  
-- **MCP GitHub Agent** – Intelligent automation agent for repo issue tracking & management.  
-- **AI Spam-Ham Detection** – Hybrid ML/DL spam classifier (Naive Bayes, LSTM, LLM).  
-- **Watermarking & Steganography** – Edge-guided LSB–SVD watermarking with adaptive threshold.  
-
----
-
-## 📜 Certifications
-- **Fortinet NSE 1 & 2** – Network Security Essentials (2023)  
-- **TCM Security** – Practical Web Application Security Testing (2023)  
-- **TCM Security** – Mobile Application Penetration Testing (2025)  
-- **EC-Council CodeRed** – Ethical Hacking Essentials (Ongoing)  
-
----
-
-## 🎮 Just for Fun
-
-<p align="center">
-  <img src="https://media.giphy.com/media/fnlXXGImVWB0RYWWQj/giphy.gif" width="120" alt="Pac-Man"/>  
-  <br/> 
-  <em>Chasing bugs like Pac-Man chases ghosts 👻</em>
+## 🗄️ Data Handling
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"/>
 </p>
 
 
