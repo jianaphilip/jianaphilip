@@ -1,47 +1,80 @@
-<h1 align="center">Hi, I'm Jiana Philip</h1>
-<h3 align="center">An aspiring student in the field of Cyber Security 🛡️</h3>
-
-<h2 align="left">👩‍💻 Profile</h2>
-<h3>
-Fourth-year Computer Engineering undergraduate specializing in Information Security with strong foundations in software development, data engineering, and system security. Skilled in Python, Java, SQL, C, and Docker, with projects spanning data analysis, blockchain, IoT, digital forensics, and SDN-based networking. Demonstrates problem-solving, adaptability, and teamwork in both academic and independent projects. Seeking opportunities to apply technical expertise in software engineering, data engineering, and secure systems development.
-</h3>
-
-- 📫 How to reach me: **jianaphilip0284@gmail.com**  
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1K_uQLeQkQbIxyacldwQtNSiuXlYBlmWk/view?usp=sharing)
+<h1 align="center">Hi 👋, I'm Jiana Philip</h1>
+<h3 align="center">🚀 Aspiring Cybersecurity Engineer | Software & Data Enthusiast</h3>
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+## 👩‍💻 Profile
+Fourth-year **Computer Engineering undergraduate** specializing in **Information Security** with strong foundations in **software development, data engineering, and system security**.  
+Skilled in **Python, Java, SQL, C, Docker**, with projects spanning **AI, Blockchain, IoT, Digital Forensics, and SDN**.  
+Demonstrates **problem-solving, adaptability, and teamwork** in both academic and independent projects.  
+💡 Seeking opportunities in **software engineering, data engineering, and secure systems development**.  
+
+---
+
+## 🌱 About Me
+- 🎓 Studying at **VIT Vellore (2022–Present)**  
+- 🔐 Passionate about **cybersecurity & secure systems**  
+- 🤖 Exploring **AI-powered security automation & DevSecOps**  
+- 📫 Reach me at: **jianaphilip0284@gmail.com**  
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1K_uQLeQkQbIxyacldwQtNSiuXlYBlmWk/view?usp=sharing)  
+
+---
+
+## 🤝 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/jiana-philip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jiana philip" height="30" width="40" /></a>
-<a href="https://instagram.com/jiana._.philip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jiana._.philip" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jiana-philip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jiana philip" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jiana-philip" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/jiana._.philip" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://leetcode.com/jiana_philip" target="blank"><img src="https://img.shields.io/badge/-LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
+## 🛠️ Languages & Tools
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/> 
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/> 
 </p>
 
 ---
 
-<h3 align="center">🎶 Formula 1 Vibes</h3>
+## 📊 GitHub Fun Stats
 <p align="center">
-  <a href="https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx">
-    <img src="https://i.scdn.co/image/ab67616d0000b273eb2a5ed0f27fcf3e7e6b1b3c" width="300" alt="Formula 1 Theme - Brian Tyler"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=jianaphilip&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jianaphilip&theme=radical" alt="GitHub streak" height="160"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jianaphilip&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jianaphilip&theme=onedark&row=1&column=6" alt="trophies"/>
+</p>
+
+---
+
+## 🎶 Now Playing on Spotify
+<p align="center">
+  <!-- Change 'novatorem.vercel.app' to your own Vercel deployment URL -->
+  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
+</p>
+
 
 
