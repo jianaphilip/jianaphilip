@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **jianaphilip0284@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rBBhRFIG001f_Nw02WYx4l0PEBcZLRhD/view?usp=drive_link](https://drive.google.com/file/d/1rBBhRFIG001f_Nw02WYx4l0PEBcZLRhD/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1rBBhRFIG001f_Nw02WYx4l0PEBcZLRhD/view?usp=drive_link]([https://drive.google.com/file/d/1rBBhRFIG001f_Nw02WYx4l0PEBcZLRhD/view?usp=drive_link](https://drive.google.com/file/d/1K_uQLeQkQbIxyacldwQtNSiuXlYBlmWk/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
